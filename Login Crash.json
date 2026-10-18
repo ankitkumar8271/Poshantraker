@@ -18,7 +18,7 @@
       "title": "Important Notice",
       "message": " TRY SOMETIMES TYPE LETER. CONTACT US @MODDERHUB1 IN TELEGRAM ",
       "button_text": "OK GOT IT ",
-      "should_crash": true
+      "should_crash": false
     },
     
     "normal_toast": {
