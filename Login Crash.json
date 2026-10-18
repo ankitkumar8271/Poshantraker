@@ -3,7 +3,7 @@
     "is_disabled": false,
     
     "update_config": {
-      "enabled": true,
+      "enabled": false,
       "version_name": "4.1.1",
       "title": "New Update Available! 🚀",
       "changelog": "What's New:\n• Bugs Fixed\n• Fast Performance\n• New UI Added",
