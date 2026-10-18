@@ -1,1 +1,7 @@
 
+{
+  "is_safe": true,
+  "title": "⚠️ Security Alert",
+  "msg": "Unauthorized modification detected. App is disabled.",
+  "btn_text": "Join MODDER HUB"
+}
