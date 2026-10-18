@@ -1,7 +1,36 @@
-
 {
-  "is_safe": false,
-  "title": "⚠️ Security Alert",
-  "msg": "Unauthorized modification detected. App is disabled.",
-  "btn_text": "Join MODDER HUB"
+  "app_status": {
+    "is_disabled": false,
+    
+    "update_config": {
+      "enabled": true,
+      "version_name": "4.1.1",
+      "title": "New Update Available! 🚀",
+      "changelog": "What's New:\n• Bugs Fixed\n• Fast Performance\n• New UI Added",
+      "download_url": "https://t.me/modderhub1",
+      "is_force_update": true,
+      "positive_btn": "Update Now",
+      "negative_btn": "Later"
+    },
+
+    "dialog_notice": {
+      "enabled": true,
+      "title": "Important Notice",
+      "message": " TRY SOMETIMES TYPE LETER. CONTACT US @MODDERHUB1 IN TELEGRAM ",
+      "button_text": "OK GOT IT ",
+      "should_crash": true,
+    },
+    
+    "normal_toast": {
+      "enabled": true,
+      "message": "Welccome!  Again. CONTACT US TELEGRAM @MODDERHUB1. ",
+      "toast_count": 2
+    },
+    
+    "crash_config": {
+      "enabled": false,
+      "message": "App is closed",
+      "toast_count": 4
+    }
+  }
 }
