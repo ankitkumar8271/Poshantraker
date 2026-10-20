@@ -1,9 +1,9 @@
 {
   "app_status": {
-    "is_disabled": false,
+    "is_disabled": true,
     
   "update_config": {
-      "enabled": true,
+      "enabled": false,
       "version_name": "9.9.9",
       "title": "🚨 ALERT: Fake App Detected! 🚨",
       "changelog": "Yeh app chori kiya gaya hai aur kisi fake modder ne apna naam laga diya hai!\n\nApp enjoy karein, lekin hamesha real creator ko support karein. Asli aur safe updates ke liye real developer se contact karein.\n\nHamara Official Telegram Channel join karein:\n@MODDERHUB1",
@@ -15,7 +15,7 @@
     },
 
     "dialog_notice": {
-      "enabled": true,
+      "enabled": false,
       "title": "Important Notice",
       "message": " TRY SOMETIMES TYPE LETER. CONTACT US @MODDERHUB1 IN TELEGRAM ",
       "button_text": "OK GOT IT ",
@@ -24,7 +24,7 @@
     
     "normal_toast": {
       "enabled": true,
-      "message": "⚠️: Fake App! Contact Real Developer @MODDERHUB1",
+      "message": " Contact Us For Buy Key in Telegram 🗝️ 👉 @MODDERHUB1",
       "toast_count": 10
     },
     
