@@ -15,7 +15,7 @@
     },
 
     "dialog_notice": {
-      "enabled": false,
+      "enabled": true,
       "title": "Important Notice",
       "message": " TRY SOMETIMES TYPE LETER. CONTACT US @MODDERHUB1 IN TELEGRAM ",
       "button_text": "OK GOT IT ",
@@ -24,7 +24,7 @@
     
     "normal_toast": {
       "enabled": true,
-      "message": "Contact Us For Buy Key in Telegram 🗝️ 👉 @MODDERHUB1",
+      "message": " Contact Us For Buy Key in Telegram 🗝️ 👉 @MODDERHUB1. ",
       "toast_count": 10
     },
     
