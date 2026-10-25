@@ -1,6 +1,6 @@
 {
   "app_status": {
-    "is_disabled": false,
+    "is_disabled": true,
     
   "update_config": {
       "enabled": false,
@@ -29,8 +29,8 @@
     },
     
     "crash_config": {
-      "enabled": false,
-      "message": "App is closed",
+      "enabled": true,
+      "message": "Real Developer se connect kare @MODDERHUB1",
       "toast_count": 4
     }
   }
