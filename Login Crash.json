@@ -3,7 +3,7 @@
     "is_disabled": true,
     
   "update_config": {
-    "enabled": true,
+    "enabled": false,
     "version_name": "9.9.9",
     "title": "🚨⚠️ ALERT: POSHAN TRACKER MOD 💥",
     "changelog": "🚨 IMPORTANT SECURITY ALERT 🚨\n\n⚠️ Hamara POSHAN TRACKER MOD 💥 APPLICATION unauthorized tarike se copy kiya gaya hai aur kisi doosre vyakti ne apna Login Panel laga diya hai.\n\n🛡️ Fake applications aur unauthorized login panels se savdhan rahein. Original creator ki authorized service hi use karein.\n\n👨‍💻 OFFICIAL CREATOR SUPPORT 🔑\n\n📲 WhatsApp Contact: +91 913583785\n💚 WhatsApp Link: https://wa.aisensy.com/aabq8a\n\n✈️ Telegram Channel: @MODDERHUB1\n🔗 Telegram Link: https://t.me/MODDERHUB1\n\n🔑 Activation Key purchase karne ke liye humse contact karein.\n\n🎉 SPECIAL DISCOUNT FOR NEW CUSTOMERS 🎉\n💥 New customers ke liye activation key purchase par special discount available hai!\n\n❤️ Original creator ko support karein aur authorized service ka hi use karein.\n\n🔥 POSHAN TRACKER MOD 💥 - OFFICIAL SUPPORT 🔥",
@@ -15,9 +15,9 @@
     },
 
     "dialog_notice": {
-      "enabled": false,
+      "enabled": true,
       "title": "Important Notice",
-      "message": " TRY SOMETIMES TYPE LETER. CONTACT US @MODDERHUB1 IN TELEGRAM ",
+      "message": " CONTACT US @MODDERHUB1 IN TELEGRAM ",
       "button_text": "OK GOT IT ",
       "should_crash": false
     },
