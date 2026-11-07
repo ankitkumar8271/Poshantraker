@@ -1,7 +1,7 @@
 
 {
   "app_status": {
-    "is_disabled": false,
+    "is_disabled": true,
 
     "update_config": {
       "enabled": true,
