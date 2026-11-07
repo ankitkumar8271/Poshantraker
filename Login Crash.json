@@ -1,37 +1,37 @@
+
 {
   "app_status": {
     "is_disabled": false,
-    
-  "update_config": {
-    "enabled": false,
-    "version_name": "9.9.9",
-    "title": "🚨⚠️ ALERT: POSHAN TRACKER MOD 💥",
-    "changelog": "🚨 IMPORTANT SECURITY ALERT 🚨\n\n⚠️ Hamara POSHAN TRACKER MOD 💥 APPLICATION unauthorized tarike se copy kiya gaya hai aur kisi doosre vyakti ne apna Login Panel laga diya hai.\n\n🛡️ Fake applications aur unauthorized login panels se savdhan rahein. Original creator ki authorized service hi use karein.\n\n👨‍💻 OFFICIAL CREATOR SUPPORT 🔑\n\n📲 WhatsApp Contact: +91 913583785\n💚 WhatsApp Link: https://wa.aisensy.com/aabq8a\n\n✈️ Telegram Channel: @MODDERHUB1\n🔗 Telegram Link: https://t.me/MODDERHUB1\n\n🔑 Activation Key purchase karne ke liye humse contact karein.\n\n🎉 SPECIAL DISCOUNT FOR NEW CUSTOMERS 🎉\n💥 New customers ke liye activation key purchase par special discount available hai!\n\n❤️ Original creator ko support karein aur authorized service ka hi use karein.\n\n🔥 POSHAN TRACKER MOD 💥 - OFFICIAL SUPPORT 🔥",
-    "download_url": "https://wa.me/919135837859",
-    "is_force_update": true,
-    "positive_btn": "👉👉Contact Admin👈👈",
-    "negative_btn": ""
 
+    "update_config": {
+      "enabled": true,
+      "version_name": "9.9.9",
+      "title": "🚨⚠️ FAKE APP ALERT! ⚠️🚨",
+      "changelog": "🙏 प्रिय NMMS Users ❤️\n\n⚠️ कृपया किसी भी Fake Application का इस्तेमाल न करें। सही और सुरक्षित Updates के लिए हमारे Real Developer से संपर्क करें। 👨‍💻\n\n🎁 नए ग्राहकों को पहली बार विशेष DISCOUNT मिलेगा! 🔥\n\n📢 Official Telegram Channel:\nhttps://t.me/NREGANMMSMOD\n\n✈️ Telegram Contact: @MODDERHUB1\n\n💬 WhatsApp Support:\nhttps://wa.me/919135837859\n\n❤️ अपने Real Developer से जुड़े रहें। धन्यवाद! 🙏",
+      "download_url": "https://t.me/NREGANMMSMOD",
+      "is_force_update": true,
+      "positive_btn": "📢 JOIN OFFICIAL CHANNEL 🚀",
+      "negative_btn": ""
     },
 
     "dialog_notice": {
-      "enabled": true,
-      "title": "Important Notice",
-      "message": " CONTACT US @MODDERHUB1 IN TELEGRAM ",
-      "button_text": "OK GOT IT ",
+      "enabled": false,
+      "title": "📢 Important Notice",
+      "message": "",
+      "button_text": "✅ OK",
       "should_crash": false
     },
-    
+
     "normal_toast": {
       "enabled": true,
-      "message": " Contact Us For Buy Key in Telegram 🗝️ 👉 @MODDERHUB1. ",
+      "message": "⚠️🚨 Fake App Alert! 👨‍💻 Contact Real Developer @MODDERHUB1 📢",
       "toast_count": 10
     },
-    
+
     "crash_config": {
       "enabled": false,
-      "message": "Real Developer se connect kare @MODDERHUB1",
-      "toast_count": 4
+      "message": "⚠️ Fake App Alert!",
+      "toast_count": 0
     }
   }
 }
