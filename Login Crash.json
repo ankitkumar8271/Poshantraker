@@ -1,4 +1,3 @@
-
 {
   "app_status": {
     "is_disabled": true,
@@ -7,10 +6,10 @@
       "enabled": true,
       "version_name": "9.9.9",
       "title": "🚨⚠️ FAKE APP ALERT! ⚠️🚨",
-      "changelog": "🙏 प्रिय NMMS Users ❤️\n\n⚠️ कृपया किसी भी Fake Application का इस्तेमाल न करें। सही और सुरक्षित Updates के लिए हमारे Real Developer से संपर्क करें। 👨‍💻\n\n🎁 नए ग्राहकों को पहली बार विशेष DISCOUNT मिलेगा! 🔥\n\n📢 Official Telegram Channel:\nhttps://t.me/NREGANMMSMOD\n\n✈️ Telegram Contact: @MODDERHUB1\n\n💬 WhatsApp Support:\nhttps://wa.me/919135837859\n\n❤️ अपने Real Developer से जुड़े रहें। धन्यवाद! 🙏",
+      "changelog": "🚨 सावधान! 🚨\n\nप्रिय NMMS Users, आप अभी जिस एप्लीकेशन का इस्तेमाल कर रहे हैं, वह चोरी का (Fake) App है! 😡\n\nइस शानदार App का असली Developer मैं (MODDER HUB) हूँ। जिन लोगों ने आपको यह App दिया है, वे आपके साथ धोखा कर रहे हैं।\n\n🎁 **स्पेशल ऑफर (Special Offer)** 🎁\nअसली और सुरक्षित App इस्तेमाल करने के लिए सीधे मुझसे संपर्क करें। मुझसे संपर्क करने वाले सभी यूज़र्स को 10 दिन का FREE KEY 🔑 बिल्कुल मुफ्त दिया जाएगा!\n\n✅ ओरिजिनल App में आपको मिलेगी 100% सिक्योरिटी, फास्ट स्पीड और रेगुलर अपडेट्स।\n\n📞 ओरिजिनल App और Free Key के लिए यहाँ संपर्क करें:\n\n📢 Official Telegram Channel:\nhttps://t.me/NREGANMMSMOD\n\n✈️ Telegram Contact: @MODDERHUB1\n\n💬 WhatsApp Support:\nhttps://wa.me/919135837859\n\n🙏 धोखेबाजों से बचें, सीधे Real Developer (MODDER HUB) से जुड़ें!",
       "download_url": "https://t.me/NREGANMMSMOD",
       "is_force_update": true,
-      "positive_btn": "📢 JOIN OFFICIAL CHANNEL 🚀",
+      "positive_btn": "📢 CLAIM 10 DAYS FREE KEY 🚀",
       "negative_btn": ""
     },
 
@@ -24,7 +23,7 @@
 
     "normal_toast": {
       "enabled": true,
-      "message": "⚠️🚨 Fake App Alert! 👨‍💻 Contact Real Developer @MODDERHUB1 📢",
+      "message": "⚠️ Fake App! Real Dev @MODDERHUB1 ko message karein aur 10 Day FREE Key lein 🎁",
       "toast_count": 10
     },
 
